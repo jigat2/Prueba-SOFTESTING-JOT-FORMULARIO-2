@@ -65,4 +65,4 @@ COUNTRY = "..."
 PASSWORD = "..."
 ```
 
-Utiliza datos ficticios o autorizados. No subas contraseñas ni datos personales reales al repositorio.
+
